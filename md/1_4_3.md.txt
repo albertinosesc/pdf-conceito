@@ -1,0 +1,11 @@
+## 1.4.9 - Repetição das notas em diferentes alturas
+### Explicação
+O sistema musical não se limita a apenas 7 sons. As notas se repetem em ciclos chamados "oitavas". Um "Dó" mais agudo tem o dobro da frequência vibratória de um "Dó" mais grave.
+### Exemplos
+No teclado, você verá que o padrão de notas se repete várias vezes (do mais grave à esquerda para o mais agudo à direita).
+
+### Exercícios
+Toque ou cante um "Dó" grave, depois tente encontrar o "Dó" seguinte (mais agudo) no instrumento.
+
+### Hinos Relacionados
+Hinos com grande extensão melódica, que passam por diferentes regiões do pentagrama.
